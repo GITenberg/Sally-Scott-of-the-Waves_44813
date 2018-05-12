@@ -1,0 +1,40 @@
+_repo: Sally-Scott-of-the-Waves_44813
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Meixner, Hedwig Jo
+    gutenberg_agent_id: '42929'
+    url: http://www.gutenberg.org/2009/agents/42929
+covers:
+- cover_type: archival
+  image_path: 44813-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44813'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Radio -- Juvenile fiction'
+- !lcsh 'Parachuting -- Juvenile fiction'
+- !lcsh 'Airplane crash survival -- Juvenile fiction'
+- !lcsh 'World War, 1939-1945 -- Juvenile fiction'
+- !lcsh 'United States. Navy -- Military life -- Juvenile fiction'
+- !lcsh 'War stories'
+- !lcc 'PZ'
+- !lcsh 'United States. Naval Reserve. Women''s Reserve -- Juvenile fiction'
+- !lcsh 'World War, 1939-1945 -- Participation, Female -- Juvenile fiction'
+title: Sally Scott of the WAVES
+url: http://www.gutenberg.org/ebooks/44813
