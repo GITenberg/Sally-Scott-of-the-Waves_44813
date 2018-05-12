@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '3593'
     url: http://www.gutenberg.org/2009/agents/3593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44813#Sally-Scott-of-the-Waves
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2014-02-01'
 gutenberg_type: Text
